@@ -1,0 +1,6 @@
+Course Agenda
+1. Learn about the GIT
+2. Common day to day commands used
+3. Linux command line 
+4. How to add,commit,change
+5. Branching 
